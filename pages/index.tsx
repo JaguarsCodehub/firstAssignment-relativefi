@@ -100,7 +100,7 @@ export default function Home() {
           </div>
         </nav>
 
-        <div className="justify-center items-center align-middle mr-80 xl:mr-2 p-52 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
+        <div className="justify-center items-center align-middle mr-80 xl:mr-2 p-44 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
           {/* Card One */}
           <div className="card flex drop-shadow-lg shadow-inner shadow-purple-800 rounded-2xl rounded-b-2xl justify-center justify-start relative w-[360px] h-[500px] m-8 bg-[#2c0855]">
             <div
